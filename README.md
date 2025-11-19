@@ -1,8 +1,10 @@
-# 👋 Hola, soy Fernando Rodriguez
+# 👋 Hola, Soy Fernando Rodriguez
 
 🚀 Desarrollador orientado a **Frontend y APIs**  
-Trabajo con **React, .NET, ASP.NET Core, HTML, JavaScript y MySQL**  
-
+Trabajo con **React, .NET/ASP.NET Core, y MySQL**  
+## 📬 Contacto
+- 🔗 [LinkedIn](www.linkedin.com/in/fernando-rodriguez-a46935281)  
+- ✉️ rodriguezfernando1901@gmail.com  
 ---
 
 ## 🛠️ Tecnologías principales
@@ -43,8 +45,3 @@ Tecnologías: **JWT · Roles**
 
 ---
 
-## 📬 Contacto
-
-- 💻 [GitHub](https://github.com/FernandoRodriguez1)  
-- 🔗 [LinkedIn](www.linkedin.com/in/fernando-rodriguez-a46935281)  
-- ✉️ rodriguezfernando1901@gmail.com  
